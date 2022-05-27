@@ -1,0 +1,19 @@
+body {
+  font-size: 25px;
+  color: white;
+  text-align: center;
+  text-transform: uppercase;
+  background-color: rgb(30, 30, 30);
+}
+ol {
+  list-style-type: upper-roman;
+  list-style-position: inside;
+  font-size: 25px;
+}
+em {
+  color: rgb(220, 0, 0);
+}
+li {
+  margin-top: 70px;
+  margin-bottom: 70px;
+}
